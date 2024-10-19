@@ -1,8 +1,9 @@
-## Fundamentos do C# - Curso Completo e Gratuito
+## Fundamentos de C# - Curso Completo e Gratuito
 
 **Descrição:**
 
-Este curso completo e gratuito, oferecido por André Baltieri ([https://balta.io/player/assistir/5ef614da-366d-6156-d049-694800000000](https://balta.io/player/assistir/5ef614da-366d-6156-d049-694800000000)), aborda os conceitos fundamentais da linguagem C# e da plataforma .NET.
+Este curso completo e gratuito, oferecido por André Baltieri [André Baltieri](https://balta.io/player/assistir/5ef614da-366d-6156-d049-694800000000){:target="_blank"}
+, aborda os conceitos fundamentais da linguagem C# e da plataforma .NET.
 
 **Objetivo:**
 
@@ -68,7 +69,6 @@ O curso tem como objetivo proporcionar aos alunos uma base sólida em programaç
 **Observações:**
 
 * O curso é gratuito e está disponível para todos.
-* O conteúdo é atualizado regularmente.
-* A comunidade do curso oferece suporte e auxílio aos alunos.
+* A comunidade de alunos do curso está sempre disposta a oferecer suporte e auxílio aos alunos.
 
 **Comece agora mesmo sua jornada no mundo da programação C#!**
