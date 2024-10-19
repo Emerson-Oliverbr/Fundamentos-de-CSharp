@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/emerson/Projetos/Fundamentos de CSharp/Fundamentos de CSharp.csproj": {}
+    "/home/emerson/Projetos/Fundamentos de CSharp/1.Test/1.Test.csproj": {}
   },
   "projects": {
-    "/home/emerson/Projetos/Fundamentos de CSharp/Fundamentos de CSharp.csproj": {
+    "/home/emerson/Projetos/Fundamentos de CSharp/1.Test/1.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/emerson/Projetos/Fundamentos de CSharp/Fundamentos de CSharp.csproj",
-        "projectName": "Fundamentos de CSharp",
-        "projectPath": "/home/emerson/Projetos/Fundamentos de CSharp/Fundamentos de CSharp.csproj",
+        "projectUniqueName": "/home/emerson/Projetos/Fundamentos de CSharp/1.Test/1.Test.csproj",
+        "projectName": "1.Test",
+        "projectPath": "/home/emerson/Projetos/Fundamentos de CSharp/1.Test/1.Test.csproj",
         "packagesPath": "/home/emerson/.nuget/packages/",
-        "outputPath": "/home/emerson/Projetos/Fundamentos de CSharp/obj/",
+        "outputPath": "/home/emerson/Projetos/Fundamentos de CSharp/1.Test/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/emerson/.nuget/NuGet/NuGet.Config"
